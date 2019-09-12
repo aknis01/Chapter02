@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Basics
 {
+    /// <summary>
+    /// Приложение
+    /// </summary>
     class Program
     {
         public static string GetHash(string input)
